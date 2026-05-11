@@ -10,7 +10,7 @@ I am a 3rd grade programming student, and a cat (real)
 - 🔍 Niche [Mau Makan Apa¿](https://www.labirhin.art/comics) references
 - 💤 Procrastinating on everything
 - ⚰ 15 Monster energy cans per hour
-- 😵 Evil salad
+- 😵 [Salad](https://scavprototype.wiki.gg/wiki/Elder_thornback)
 #
 #### Dying 1497m below the surface of the gray planet
 ![Sense of impending doom](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/ImpendingDoom.png)
