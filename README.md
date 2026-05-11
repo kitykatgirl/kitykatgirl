@@ -22,5 +22,6 @@ I am a 3rd grade programming student, and a cat (real)
 ![Cognitive impairment](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/BrainDamage.png)
 ![Mild hypertension](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/Hypertension.png)
 ![Immunocompetent](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/HighImmunity.png)
-![Boosted regrowth](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/BoostedRegrowth.png)\
+![Boosted regrowth](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/BoostedRegrowth.png)
+#
 ![Mau Makan Apa](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/MMALogo.png)
