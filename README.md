@@ -1,11 +1,4 @@
 # Welcome to my profile
-![Static Badge](https://img.shields.io/badge/meow-darkred)
-![Static Badge](https://img.shields.io/badge/meows-darkred)
-![Static Badge](https://img.shields.io/badge/mew-darkred)
-![Static Badge](https://img.shields.io/badge/meowza-darkred)
-![Static Badge](https://img.shields.io/badge/mrow-darkred)
-![Static Badge](https://img.shields.io/badge/miau-darkred)
-![Static Badge](https://img.shields.io/badge/mraw-darkred)
 
 I am a 3rd grade programming student, and a cat (real)
 
@@ -18,10 +11,14 @@ I am a 3rd grade programming student, and a cat (real)
 - 💤 Procrastinating on everything
 - ⚰ 15 Monster energy cans per hour
 - 😵 Evil salad
-
-![Sense of impending doom](https://scavprototype.wiki.gg/images/thumb/ImpendingDoom_Moodle.png/48px-ImpendingDoom_Moodle.png?b2ad06)
-![Highly Drugged](https://scavprototype.wiki.gg/images/thumb/Overdose_Moodle_3.png/48px-Overdose_Moodle_3.png?2f1ebd)
-![Hungry](https://scavprototype.wiki.gg/images/thumb/Moodle_hunger_1.webp/48px-Moodle_hunger_1.webp?7d33aa)
-![Cognitive impairment](https://scavprototype.wiki.gg/images/thumb/Braindamage_Moodle_1.png/48px-Braindamage_Moodle_1.png?a41c30)
-![Mild hypertension](https://scavprototype.wiki.gg/images/thumb/Moodle_hypertension_0.webp/48px-Moodle_hypertension_0.webp?5d5ea3)
-![Tired](https://scavprototype.wiki.gg/images/thumb/Sleep_1.png/48px-Sleep_1.png?3fcac4)
+#
+![Sense of impending doom](https://github.com/kitykatgirl/ReadmeStuffs/blob/c94a22670830a0a68aec914e73a9fb399554ced3/Images/ImpendingDoom.png)
+![Highly Drugged](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/Overdose.png)
+![Parched](https://github.com/kitykatgirl/ReadmeStuffs/blob/5870ba801cb3aa28b2dfa416cf8c0293bf72483f/Images/Parched.png)
+![Hungry](https://github.com/kitykatgirl/ReadmeStuffs/blob/c94a22670830a0a68aec914e73a9fb399554ced3/Images/Hunger.png)
+![Gloomy](https://github.com/kitykatgirl/ReadmeStuffs/blob/5870ba801cb3aa28b2dfa416cf8c0293bf72483f/Images/Gloomy.png)
+![Painful Infection](https://github.com/kitykatgirl/ReadmeStuffs/blob/5870ba801cb3aa28b2dfa416cf8c0293bf72483f/Images/Infection.png)
+![Tired](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/Sleep.png)
+![Cognitive impairment](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/BrainDamage.png)
+![Mild hypertension](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/Hypertension.png)\
+![Mau Makan Apa](https://github.com/kitykatgirl/ReadmeStuffs/blob/8b3686ca9090fd12cf1f3c4b9190e9f37f68d8cb/Images/MMALogo.png)
