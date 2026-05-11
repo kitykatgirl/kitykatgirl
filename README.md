@@ -12,6 +12,7 @@ I am a 3rd grade programming student, and a cat (real)
 - ⚰ 15 Monster energy cans per hour
 - 😵 Evil salad
 #
+#### Dying 1497m below the surface of the gray planet
 ![Sense of impending doom](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/ImpendingDoom.png)
 ![Highly Drugged](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/Overdose.png)
 ![Parched](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/Parched.png)
@@ -24,4 +25,5 @@ I am a 3rd grade programming student, and a cat (real)
 ![Immunocompetent](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/HighImmunity.png)
 ![Boosted regrowth](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/BoostedRegrowth.png)
 #
+#### Erika Utomo is the best character btw
 ![Mau Makan Apa](https://github.com/kitykatgirl/ReadmeStuffs/blob/main/Images/MMALogo.png)
